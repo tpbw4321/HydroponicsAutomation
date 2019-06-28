@@ -1,7 +1,3 @@
 # HydroponicsAutomation
 
-CMPE 129 Senior Design
-
-**Timecard**
-
-Name, rough description of what you've done, roughly when you did it, and roughly how long you spent on it. Any rows with blank columns are assumed to be done together with the above row.
+An automated hydroponic system that maintains a system's nutrient, water, and ph levels using feedback control. The project provides a user friendly experience that makes tedious tasks of maintaining a hydroponic system easy. Users are able control the device locally using a hardware interface or remotely with a web app. Vitals on the growing environment are logged giving users the ability to analyze a systems performance over time.
